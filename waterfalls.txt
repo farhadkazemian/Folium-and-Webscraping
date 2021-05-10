@@ -1,0 +1,21 @@
+NAME,STATE,HEIGHT,LATITUDE,LONGITUDE
+sangan waterfall,Tehran Province,42,35.821300000000065,51.26270000000005
+rijab (piran) waterfall,Kermanshah Province,100,34.31417000000005,47.065000000000055
+dezfoul shevi waterfall,Khuzestan Province,9,31.500000000000057,49.00000000000006
+lounak waterfall,Gilan Province,6,36.88886000000008,49.905680000000075
+ab-pari waterfall,Mazandaran Province,100,36.25000000000004,52.333330000000046
+visadar waterfall,Gilan Province,15,37.23010000000005,49.27240000000006
+lowe waterfall,Golestan Province,75,37.25000000000006,55.00000000000006
+milash waterfall,Gilan Province,20,36.893500000000074,50.21494000000007
+ganjnameh waterfall,Hamadan Province,12,34.833330000000046,48.583330000000046
+semirom waterfall, Isfahan Province,40,31.416670000000068,51.566670000000045
+shalmash waterfall,West Azerbaijan Province,10,35.18930000000006,46.466800000000035
+ab sefid waterfall,Lorestan Province,69,33.400630000000035,49.694900000000075
+kabotar khan waterfall,Tehran Province,25,35.66667000000007,51.41667000000007
+laton waterfall, Gilan Province,105,38.42910000000006,48.87200000000007
+margoon waterfall,Fars Province,70,29.000000000000057,53.00000000000006
+venoosh waterfall,Mazandaran Province,40,37.16667000000007,49.50000000000006
+gerit waterfall,Lorestan Province,15,33.50000000000006,48.50000000000006
+alashoor waterfall,Mazandaran Province,32,36.461290000000076,52.85068000000007
+shahandasht waterfall,Mazandaran Province,180,35.91213000000005,52.26058000000006
+nozhian waterfall,lorestan Province,95,33.48778000000004,48.355830000000026
