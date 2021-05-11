@@ -1,5 +1,6 @@
 import folium
 from pathlib import Path
+
 m = folium.Map(location=[32.55801995200005,
                          54.305910263000044], zoom_start=5.5)
 with open("countries_edge.json", 'r', encoding='utf-8-sig') as f:
