@@ -1,6 +1,7 @@
 from selenium import webdriver
 import time
 from geopy.geocoders import ArcGIS
+
 def webscrape_and_fillcsv():
     firefox_profile = webdriver.FirefoxProfile() 
     firefox_profile.set_preference('intl.accept_languages', 'en')
