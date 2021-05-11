@@ -18,4 +18,4 @@ venoosh waterfall,Mazandaran Province,40,37.16667000000007,49.50000000000006
 gerit waterfall,Lorestan Province,15,33.50000000000006,48.50000000000006
 alashoor waterfall,Mazandaran Province,32,36.461290000000076,52.85068000000007
 shahandasht waterfall,Mazandaran Province,180,35.91213000000005,52.26058000000006
-nozhian waterfall,lorestan Province,95,33.48778000000004,48.355830000000026
+nozhian waterfall,lorestan Province,95,33.48778000000004,48.355830000000026 
